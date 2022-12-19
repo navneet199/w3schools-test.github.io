@@ -8,5 +8,6 @@
 	header('Location: '.$uri.'/dashboard/');
 	echo "updated";
 	echo "updated 2";
+	echo "image is added";
 	exit;
 ?>
