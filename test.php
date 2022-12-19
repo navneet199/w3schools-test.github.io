@@ -3,7 +3,7 @@
       
 <head>
     <title>
-        How to Create Skeleton Screen
+        How to Create Skeleton Screen on
         Loading Effect using CSS?
     </title>
 	<style>
