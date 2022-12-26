@@ -7,10 +7,7 @@
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/dashboard/');
 	echo "updated";
-
-	echo "to learn merge effect";
-
 	echo "updated 2";
-
+	echo "image is added";
 	exit;
 ?>
